@@ -4,10 +4,10 @@ Info sobre los servicios actuales
 
 ## Servicios
 
-- [Archivos](archivos)
-- [Usuarios](usuarios)
-- [Deploy](deploy)
-- [Likes](likes)
+- [Archivos](#archivos)
+- [Usuarios](#usuarios)
+- [Deploy](#deploy)
+- [Likes](#likes)
 
 
 
